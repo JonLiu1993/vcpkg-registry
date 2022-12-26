@@ -1,0 +1,5 @@
+{
+  "default": {
+    "pmdk": { "baseline": "1.12.0", "port-version": 0 }
+  }
+}
